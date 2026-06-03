@@ -29,3 +29,5 @@ Levels Ranks
 Установка:
 
 Закинуть папки из архива в папку sourcemod
+
+DS - https://discord.gg/Bbhy8ZsE6F VK - https://vk.com/kikieeki
